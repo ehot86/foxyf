@@ -1,1 +1,1 @@
-# foxyf
+This is foxyf web site respository.
